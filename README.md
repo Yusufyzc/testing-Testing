@@ -1,4 +1,6 @@
-Maya1 link: https://huggingface.co/maya-research/maya1
+TinyLlama link: https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0 --Using GPU  ~1GB 
+
+KumruAI link: https://huggingface.co/vngrs-ai/Kumru-2B --Using CPU 5GB
 
 
 Firstly, you have to install anaconda in your device,
@@ -10,4 +12,4 @@ Fourthly, if you install all of the packages you can use them easily but if you 
 You should ensure you are in environment that you use in the prompt
 In anaconda prompt enter this command: python -m ipykernel --user --name envName --display-name "whatEverYouWANT"
 You linked with anaconda environment with jupyter
-Lastly, in the link top, copy the python codes and create a new python file in jupyter, paste them and execute the file.
+Lastly, in the .ipynb python files of this repository, open the python files in jupyter and execute the file.
