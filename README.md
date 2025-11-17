@@ -10,3 +10,4 @@ Fourthly, if you install all of the packages you can use them easily but if you 
 You should ensure you are in environment that you use in the prompt
 In anaconda prompt enter this command: python -m ipykernel --user --name envName --display-name "whatEverYouWANT"
 You linked with anaconda environment with jupyter
+Lastly, in the link top, copy the python codes and create a new python file in jupyter, paste them and execute the file.
