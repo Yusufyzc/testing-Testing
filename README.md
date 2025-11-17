@@ -1,6 +1,6 @@
 TinyLlama link: https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0 --Using GPU  ~1GB 
 
-KumruAI link: https://huggingface.co/vngrs-ai/Kumru-2B --Using CPU 5GB
+[Not recommended because it doesn't unload ram usage] -- KumruAI link: https://huggingface.co/vngrs-ai/Kumru-2B --Using CPU 5GB --Not recommended because it doesn't unload ram usage
 
 
 Firstly, you have to install anaconda in your device,
