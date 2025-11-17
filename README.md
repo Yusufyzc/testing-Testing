@@ -1,7 +1,7 @@
 <div style="font-size:16px">
 TinyLlama link: https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0 --Using GPU  ~1GB 
 
-<p>Firstly, you have to install anaconda in your device,
+<br><br><p>Firstly, you have to install anaconda in your device,
 <p>Secondly, create an environment in anaconda -anaconda navigator is easly, but in prompt "conda create -n envName python:3.11" //python3.11 version is working with this, but it is changeable for others
 <p>Thirdly, install cuda tools using anaconda prompt but
 <p>----  1.Open anaconda prompt and access the environment "conda activate envName"
